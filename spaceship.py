@@ -6,7 +6,7 @@ pygame.init()
 w_width = 660
 w_height = 600
 window = pygame.display.set_mode((w_width, w_height))
-pygame.display.set_caption("Spaceship")
+pygame.display.set_caption("Cosmic Clash: The Spaceship Saga")
 
 #loading images
 bg = pygame.image.load("media/bg.png")
